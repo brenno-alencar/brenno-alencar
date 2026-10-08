@@ -4,27 +4,23 @@
 </p>
 
 <p align="center">
-🚀 <b>Desenvolvedor Front-end Júnior</b> · JavaScript · React · TypeScript
+🚀 <b>Desenvolvedor Front-end Júnior</b> · React · TypeScript · JavaScript
 <br>
 📍 Goiânia, GO — aberto a vagas remotas e híbridas
 </p>
 
 <p align="center">
-Construo aplicações web responsivas e de alta performance, com componentização, Clean Code e atenção real à experiência do usuário.
+Construo interfaces rápidas, acessíveis e testadas. Reduzi em 20–30% o tempo de carregamento
+de uma plataforma Agtech em produção (~8.500 usuários).
 </p>
 
 ---
 
-## 🛠️ Stack de Tecnologias
+## 🛠️ Stack
 
 <h3 align="center">Front-end</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap&theme=dark" alt="Front-end" />
-</p>
-
-<h3 align="center">Back-end (apoio)</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Front-end" />
 </p>
 
 <h3 align="center">Testes</h3>
@@ -32,39 +28,29 @@ Construo aplicações web responsivas e de alta performance, com componentizaç�
 <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="Testes" />
 </p>
 
-<h3 align="center">DevOps & Ferramentas</h3>
+<h3 align="center">Back-end (apoio)</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,vercel,figma&theme=dark" alt="DevOps e Ferramentas" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql&theme=dark" alt="Back-end" />
+</p>
+
+<h3 align="center">Ferramentas</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma&theme=dark" alt="Ferramentas" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/brenno-alencar/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:brennoalencar79@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/5562993002421">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/brenno-alencar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:brennoalencar79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/5562993002421"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 Estatísticas
-
 <p align="center">
-<img alt="Estatísticas do GitHub" height="170" src="https://github-readme-stats.vercel.app/api?username=brenno-alencar&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
-<img alt="Linguagens mais usadas" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-alencar&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-
----
-
-<h3 align="center">Contagem de Visitantes</h3>
-<p align="center">
-<img alt="Contagem de visitantes" src="https://komarev.com/ghpvc/?username=brenno-alencar-profile&label=Visitantes&color=0A66C2&style=for-the-badge" />
+<img alt="Estatísticas do GitHub" height="170" src="https://github-readme-stats.vercel.app/api?username=brenno-alencar&show_icons=true&theme=tokyonight&count_private=true" />
+<img alt="Linguagens mais usadas" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-alencar&layout=compact&theme=tokyonight" />
 </p>
