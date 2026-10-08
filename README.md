@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Brenno Alencar</h1>
+1<h1 align="center">Olá, eu sou Brenno Alencar</h1>
 <p align="center">
 <img alt="Desenvolvedor Front-end" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=Desenvolvedor+Front-end;React+%26+TypeScript;Interfaces+Responsivas+e+Acess%C3%ADveis;Performance+e+Experi%C3%AAncia+do+Usu%C3%A1rio" />
 </p>
@@ -20,7 +20,7 @@ de uma plataforma Agtech em produção (~8.500 usuários).
 
 <h3 align="center">Front-end</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="Front-end" />
 </p>
 
 <h3 align="center">Back-end (apoio)</h3>
