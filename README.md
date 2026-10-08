@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-Construo interfaces rápidas, acessíveis e testadas. Reduzi em 20–30% o tempo de carregamento
-de uma plataforma Agtech em produção (~8.500 usuários).
+Construo aplicações web responsivas e de alta performance, com componentização, Clean Code e atenção real à experiência do usuário.
 </p>
 
 ---
