@@ -23,15 +23,16 @@ de uma plataforma Agtech em produção (~8.500 usuários).
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Front-end" />
 </p>
 
+<h3 align="center">Back-end (apoio)</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql&theme=dark" alt="Back-end" />
+</p>
+
 <h3 align="center">Testes</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="Testes" />
 </p>
 
-<h3 align="center">Back-end (apoio)</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql&theme=dark" alt="Back-end" />
-</p>
 
 <h3 align="center">Ferramentas</h3>
 <p align="center">
