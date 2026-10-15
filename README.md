@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-🚀 <b>Desenvolvedor Front-end Júnior</b> · React · TypeScript · JavaScript
+🚀 <b>Software Engineer</b> · React · TypeScript · JavaScript
 <br>
 📍 Goiânia, GO — aberto a vagas remotas e híbridas
 </p>
