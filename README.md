@@ -8,7 +8,11 @@
 Tenho experiência com tecnologias web modernas, componentização e trabalho em equipe. Este GitHub é o meu portfólio técnico, onde compartilho projetos e experimentos selecionados.
 
 📍 Goiânia, GO — Brasil (aberto a vagas remotas e híbridas)
-💼 LinkedIn: [linkedin.com/in/brenno-alencar](https://www.linkedin.com/in/brenno-alencar/)
+💼 LinkedIn: [linkedin.com/in/brenno-alencar]<p align="center">
+<a href="https://www.linkedin.com/in/brenno-alencar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:brennoalencar79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/5562993002421"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -44,13 +48,8 @@ Construo aplicações web responsivas e de alta performance, com **React**, **Ty
 
 ---
 
-## 🌐 Contato
 
-<p align="center">
-<a href="https://www.linkedin.com/in/brenno-alencar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:brennoalencar79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/5562993002421"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+
 
 ---
 
