@@ -1,17 +1,23 @@
-<h1 align="center">Olá, eu sou Brenno Alencar</h1>
+<h1 align="center">👋 Olá, eu sou Brenno Alencar</h1>
 <p align="center">
 <img alt="Desenvolvedor Front-end" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=Desenvolvedor+Front-end;React+%26+TypeScript;Interfaces+Responsivas+e+Acess%C3%ADveis;Performance+e+Experi%C3%AAncia+do+Usu%C3%A1rio" />
 </p>
 
-<p align="center">
-🚀 <b>Software Engineer</b> · React · TypeScript · JavaScript
-<br>
-📍 Goiânia, GO — aberto a vagas remotas e híbridas
-</p>
+🎯 **Software Engineer** focado em front-end, criando produtos escaláveis e de alta qualidade, com ótimas experiências para o usuário.
 
-<p align="center">
-Construo aplicações web responsivas e de alta performance, com componentização, Clean Code e atenção real à experiência do usuário.
-</p>
+Tenho experiência com tecnologias web modernas, componentização e trabalho em equipe. Este GitHub é o meu portfólio técnico, onde compartilho projetos e experimentos selecionados.
+
+📍 Goiânia, GO — Brasil (aberto a vagas remotas e híbridas)
+🌐 Site: [seu-site.dev](https://seu-site.dev)
+💼 LinkedIn: [linkedin.com/in/brenno-alencar](https://www.linkedin.com/in/brenno-alencar/)
+
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor com experiência em front-end e noções de back-end. Valorizo a qualidade do código, a facilidade de manutenção, o desempenho, a acessibilidade e a entrega de valor real para o negócio e para quem usa o produto.
+
+Construo aplicações web responsivas e de alta performance, com **React**, **TypeScript** e **Clean Code**.
 
 ---
 
@@ -31,7 +37,6 @@ Construo aplicações web responsivas e de alta performance, com componentizaç�
 <p align="center">
 <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="Testes" />
 </p>
-
 
 <h3 align="center">Ferramentas</h3>
 <p align="center">
