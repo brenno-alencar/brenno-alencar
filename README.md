@@ -8,7 +8,7 @@
 Tenho experiência com tecnologias web modernas, componentização e trabalho em equipe. Este GitHub é o meu portfólio técnico, onde compartilho projetos e experimentos selecionados.
 
 📍 Goiânia, GO — Brasil (aberto a vagas remotas e híbridas)
-🌐 Site: [seu-site.dev](https://seu-site.dev)
+<!--🌐 Site: [seu-site.dev](https://seu-site.dev)-->
 <!--💼 LinkedIn: [linkedin.com/in/brenno-alencar](https://www.linkedin.com/in/brenno-alencar/)-->
 
 ---
